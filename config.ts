@@ -5,7 +5,7 @@ module.exports = {
       "Catatan Harian si Adit",
     googleAnalyticsId: "UA-73379983-2",
     pathPrefix: "/",
-    siteUrl: "https://robertistok.com",
+    siteUrl: "https://raiz3n19.github.io/n/",
     title: "Catatan Harian si Adit",
     author: {
       birthDate: new Date("2000-28-12"),
@@ -22,7 +22,7 @@ module.exports = {
         photo: "/robertistok_avatar.jpeg",
       },
       resume: "robert_istok_resume.pdf",
-      username: "robertistok",
+      username: "faditiya_",
       social: {
         email: "popmonst3r@gmail.com",
         github: "raiz3n19",
