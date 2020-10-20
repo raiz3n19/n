@@ -94,5 +94,4 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: "/n"
 };
