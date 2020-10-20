@@ -4,7 +4,7 @@ module.exports = {
     description:
       "Catatan Harian si Adit",
     googleAnalyticsId: "UA-73379983-2",
-    pathPrefix: "/",
+    pathPrefix: "/n",
     siteUrl: "https://raiz3n19.github.io/n/",
     title: "Catatan Harian si Adit",
     author: {
