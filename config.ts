@@ -15,7 +15,7 @@ module.exports = {
       title: "Catatan Harian si Adit",
       descriptions: {
         intro:
-          "Welcome to my personal blog! hope you Enjoy here!!",
+          "Welcome to my personal blog!! hope you Enjoy here!!",
       },
       assets: {
         icon: "robertistok_avatar_rounded.png",
