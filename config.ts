@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    copyright: "© All rights reserved.",
+    copyright: "© 2020 All rights reserved.",
     description:
       "Catatan Harian si Adit",
     googleAnalyticsId: "UA-73379983-2",
